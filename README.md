@@ -1,5 +1,6 @@
 # restaurant-website-template
-I created the front-end website for a restaurant that showcases its menu and provides general information about the restaurant. The website aims to provide an interactive and visually appealing experience for users.
+This repository represents a responsive and visually appealing website designed to provide information about a restaurant and its amenities. It aims to create an immersive user experience by incorporating modern web design techniques.
+
 
 Features
 The restaurant website project includes the following front-end features:
