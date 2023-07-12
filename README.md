@@ -18,6 +18,11 @@ CSS: Stylesheets for visual design and layout.
 JavaScript: Adds interactivity and dynamic features to the website.
 Bootstrap: CSS framework for responsive and mobile-first design.
 
+
+Live Demo:https://moayyadsaleh.github.io/restaurant-website-template/
+
+
+
 ![Screenshot 2023-06-30 133051](https://github.com/moayyadsaleh/restaurant-website-template/assets/137034202/a4a82d95-cbf3-426d-ae71-13c5513c4374)
 
 
